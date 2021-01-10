@@ -11,5 +11,17 @@ This repo contains my attempts to solve the exercises from the book: *The C Prog
  - Windows 10
  - gcc comiler form [MinGW-w64](https://sourceforge.net/projects/mingw-w64/)
  - terminal: [git bash](https://git-scm.com) 
- - text editor: [VS Code](https://code.visualstudio.com) 
+ - text editor: [VS Code](https://code.visualstudio.com)
+
+ <br>
+
  - Note: I will be using the ANSI/c89 standard to keep inline with the book. I think it would be easier and less confusing to first learn that first, and only after that learn about new/moddern features, to decide what I realy need and to keep in mind what belongs where
+
+## Index
+
+### Chapter 1
+
+ - [1-1](1/1-1)
+ - [1.2](404)
+
+ <br>
