@@ -5,6 +5,8 @@
 
 ---
 
+[working dir](.)
+
 ### Runing the program:
 
 I am using the MinGW-w64 gcc compiler, so I will run the following command to compile:

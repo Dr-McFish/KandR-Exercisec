@@ -21,7 +21,7 @@ This repo contains my attempts to solve the exercises from the book: *The C Prog
 
 ### Chapter 1
 
- - [1-1](1/1-1)
+ - [1-1](1/1-1/report.md)
  - [1.2](404)
 
  <br>
