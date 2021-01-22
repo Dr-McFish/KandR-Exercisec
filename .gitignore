@@ -1,0 +1,4 @@
+*.swp
+*.code-workspace
+*.exe
+.vscode
