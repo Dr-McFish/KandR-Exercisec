@@ -1,5 +1,5 @@
 /* code from book */
-/* Fahrenheit-Celsius.c */
+/* Fahrenheit-Celsius-v1.c */
 #include <stdio.h>
 
 /* print Fahrenheit-Celsius table 
