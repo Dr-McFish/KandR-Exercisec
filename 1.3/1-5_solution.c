@@ -1,0 +1,12 @@
+/* Solution to 1-5 */
+/* 1-5_solution.c */
+#include <stdio.h>
+
+/* print Fahrenheit-Celsius table in revese order
+	for fahr = 300, 280, ..., 0 */
+main()
+{
+	int fahr;
+	for (fahr = 300; fahr >= 0; fahr = fahr - 20)
+		printf("%3d%6.1f\n", fahr, (5.0/9.0) * (fahr-32));
+}
