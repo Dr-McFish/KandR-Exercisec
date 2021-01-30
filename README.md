@@ -21,7 +21,33 @@ This repo contains my attempts to solve the exercises from the book: *The C Prog
 
 ### Chapter 1
 
- - [1-1](1/1-1/report.md)
- - [1.2](404)
+### [1.1](1.1)
 
- <br>
+ - [1-1](1.1/1-1_report.md)
+ - [1.2](1.1/1-2_report.md)
+ 
+ ### [1.2](1.2)
+
+ - [1-3](1.2/1-3_solution.c)
+ - [1-4](1.2/1-4_solution.c)
+
+ ### [1.3](1.3)
+
+ - [1-5](1.3/1-5_solution.c)
+
+ ### [1.5.1](1.5.1)
+
+ - [1-6](1.5.1/1-6_solution.c)
+ - [1-7](1.5.1/1-7_solution.c)
+ - [1-8](1.5.1/1-8_solution.c)
+
+### [1.5.3](1.5.3)
+
+ - [1-9](1.5.3/1-9_solution.c)
+ - [1-10](1.5.3/1-10_solution.c)
+ - [1-11](1.5.3/1-11_solution.c)
+ 
+### [1.5.4](1.5.4)
+
+ - [1-12](1.5.4/1-12_solution.c)
+ - [1-13](1.5.4/1-13_solution.c)
