@@ -1,8 +1,6 @@
-/* code from book */
-/* wordcount.c */
-
 #include <stdio.h>
 #include <string.h>
+#include <ctype.h>
 
 #define IN 1
 #define OUT 0
